@@ -1,0 +1,14 @@
+.dashboard-container {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .dashboard-box {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px auto;
+    width: 50%;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
