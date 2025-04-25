@@ -6,7 +6,7 @@
   /* Hero Section */
   .hero {
     background: url("https://source.unsplash.com/1600x900/?office,job") center/cover;
-    color: white;
+    color: black;
     padding: 100px 20px;
   }
   
@@ -52,7 +52,7 @@
   
   .category {
     padding: 15px 30px;
-    background-color: #f8f9fa;
+    background-color: wheat;
     border-radius: 5px;
     cursor: pointer;
   }
